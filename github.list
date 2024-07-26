@@ -1,5 +1,16 @@
+[DarkMUSH_Layout]
 https://raw.githubusercontent.com/Coffee-Nerd/DarkMUSH/main/worlds/plugins/DarkMUSH_layout.xml
+
+[DarkMUSH_GMCP_Mapper]
 https://raw.githubusercontent.com/Coffee-Nerd/DarkMUSH/main/worlds/plugins/DarkMUSH_GMCP_Mapper.xml
+https://raw.githubusercontent.com/Coffee-Nerd/DarkMUSH/main/lua/darkwizmapper.lua
+https://raw.githubusercontent.com/Coffee-Nerd/DarkMUSH/main/worlds/plugins/images/
+
+[DarkMUSH_Group_Monitor]
 https://raw.githubusercontent.com/Coffee-Nerd/DarkMUSH/main/worlds/plugins/DarkMUSH_group_monitor_gmcp.xml
+
+[DarkMUSH_Theme_Controller]
 https://raw.githubusercontent.com/Coffee-Nerd/DarkMUSH/main/worlds/plugins/DarkMUSH_Theme_Controller.xml
+
+[DarkMUSH_Affects_Window]
 https://raw.githubusercontent.com/Coffee-Nerd/DarkMUSH/main/worlds/plugins/DarkMUSH_Affects_Window.xml
