@@ -31,3 +31,11 @@
   [PLUGIN:DarkMUSH_health_bars_gmcp]
   https://raw.githubusercontent.com/Coffee-Nerd/DarkMUSH/refs/heads/main/worlds/plugins/DarkMUSH_health_bars_gmcp.xml
   [END]
+
+  [PLUGIN:DarkMUSH_health_bars_gmcp]
+  https://raw.githubusercontent.com/Coffee-Nerd/DarkMUSH/refs/heads/main/worlds/plugins/DarkMUSH_health_bars_gmcp.xml
+  [END]
+
+  [PLUGIN:DarkMUSH_Speedwalk]
+  https://raw.githubusercontent.com/Coffee-Nerd/DarkMUSH/refs/heads/main/worlds/plugins/DarkMUSH_Speedwalk.xml
+  [END]
