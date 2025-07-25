@@ -39,6 +39,6 @@
   [PLUGIN:DarkMUSH_Speedwalk]
   https://raw.githubusercontent.com/Coffee-Nerd/DarkMUSH/refs/heads/main/worlds/plugins/DarkMUSH_Speedwalk.xml
 
-  [PLUGIN:DarkMUSH_Colors
+  [PLUGIN:DarkMUSH_Colors]
   https://raw.githubusercontent.com/Coffee-Nerd/DarkMUSH/refs/heads/main/worlds/plugins/darkwiz_colors.lua
   [END]
