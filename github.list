@@ -18,6 +18,7 @@
 
   [PLUGIN:DarkMUSH_Theme_Controller]
   https://raw.githubusercontent.com/Coffee-Nerd/DarkMUSH/main/worlds/plugins/DarkMUSH_Theme_Controller.xml
+  https://raw.githubusercontent.com/Coffee-Nerd/DarkMUSH/main/worlds/plugins/darkwiz_colors.lua
   [END]
 
   [PLUGIN:DarkMUSH_Affects_Window]
