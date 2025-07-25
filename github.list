@@ -39,7 +39,3 @@
   [PLUGIN:DarkMUSH_Speedwalk]
   https://raw.githubusercontent.com/Coffee-Nerd/DarkMUSH/refs/heads/main/worlds/plugins/DarkMUSH_Speedwalk.xml
   [END]
-
-  [PLUGIN:DarkMUSH_Colors]
-  https://raw.githubusercontent.com/Coffee-Nerd/DarkMUSH/refs/heads/main/worlds/plugins/darkwiz_colors.lua
-  [END]
